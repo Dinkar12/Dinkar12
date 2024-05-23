@@ -1,29 +1,27 @@
 <h1 align="center">Hi 👋, I'm Dinkar Kumar</h1>
-<h3 align="center">A passionate software developer and web developer from India</h3>
+<h3 align="center">A passionate Software developer and Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinkar12&label=Profile%20views&color=0e75b6&style=flat" alt="dinkar12" /> </p>
 
-- 🔭 I’m currently working on [personal assistance](https://github.com/Dinkar12/PersonalAssistance)
+- 🔭 I’m currently working on [Home rental System](https://github.com/Dinkar12/Rental)
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on [Hand-sign detection](https://github.com/Dinkar12/HandSignDetection)
+- 👯 I’m looking to collaborate on [Home rental System](https://github.com/Dinkar12/Rental)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dinkar12](https://github.com/Dinkar12)
 
-- 💬 Ask me about **C++, C, python, HTML, CSS, JavaScript, MySQL, PHP**
+- 💬 Ask me about **C++, C, Python, HTML, CSS, JavaScript, MySQL, PHP**
 
 - 📫 How to reach me **dinkar1295@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/19bQsyVF3jNC35k1QIw39Pn0OrW9V41IX/view?usp=drive_link](https://drive.google.com/file/d/19bQsyVF3jNC35k1QIw39Pn0OrW9V41IX/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dinkar-kumar-6aba3b252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dinkar-kumar-6aba3b252/" height="30" width="40" /></a>
-<a href="https://instagram.com/dinkar99390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinkar99390" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/dinkarkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dinkarkumar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/dinkar12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dinkar12/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/dinkar1295/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/dinkar1295/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/dinkar99390/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dinkar99390/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/dinkarkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/dinkarkumar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/dinkar12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dinkar12/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/dinkar1295/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/dinkar1295/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
