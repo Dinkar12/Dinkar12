@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dinkar1295@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19bQsyVF3jNC35k1QIw39Pn0OrW9V41IX/view?usp=drive_linkhttps://drive.google.com/file/d/19bQsyVF3jNC35k1QIw39Pn0OrW9V41IX/view?usp=drive_link](https://drive.google.com/file/d/19bQsyVF3jNC35k1QIw39Pn0OrW9V41IX/view?usp=drive_linkhttps://drive.google.com/file/d/19bQsyVF3jNC35k1QIw39Pn0OrW9V41IX/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19bQsyVF3jNC35k1QIw39Pn0OrW9V41IX/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
