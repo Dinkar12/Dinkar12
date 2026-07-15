@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinkar12&label=Profile%20views&color=0e75b6&style=flat" alt="dinkar12" /> </p>
 
-- 🔭 I’m currently working on [Home rental System](https://github.com/Dinkar12/Rental)
+- 🔭 I’m currently working on [Auto-Bot](https://github.com/Dinkar12/auto-bot)
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on [Home rental System](https://github.com/Dinkar12/Rental)
+- 👯 I’m looking to collaborate on [Auto-Bot](https://github.com/Dinkar12/auto-bot)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dinkar12](https://github.com/Dinkar12)
 
